@@ -8,6 +8,8 @@ TaskFlow permite crear, editar, completar, eliminar y administrar tareas de form
 Visita el demo operativo en el siguiente enlace:
 [Demo operativo](https://paolaorellanal.github.io/TaskFlow/)
 
+---
+
 # 🚀 Funcionalidades
 
 - ✅ Crear tareas
