@@ -5,6 +5,8 @@ Aplicación web para la gestión de tareas desarrollada como proyecto final del 
 TaskFlow permite crear, editar, completar, eliminar y administrar tareas de forma sencilla, incorporando conceptos modernos de JavaScript como Programación Orientada a Objetos, consumo de APIs, almacenamiento local y manipulación dinámica del DOM.
 
 ---
+Visita el demo operativo en el siguiente enlace:
+[Demo operativo](https://paolaorellanal.github.io/TaskFlow/)
 
 # 🚀 Funcionalidades
 
